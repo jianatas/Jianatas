@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "name": "Con Đường Bá Chủ",
+        "author": "vBook",
+        "version": 1,
+        "source": "https://conduongbachu.com/",
+        "regexp": "conduongbachu.com/reader/
+        "description": "Đọc truyện trên trang conduongbachu.com",
+        "locale": "vi_VN",
+        "type": "novel",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "search": "search.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js"
+    }
+}
