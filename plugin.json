@@ -3,9 +3,9 @@
         "name": "Con Đường Bá Chủ",
         "author": "vBook",
         "version": 1,
-        "source": "https://conduongbachu.com/",
-        "regexp": "conduongbachu.com/reader/
-        "description": "Đọc truyện trên trang conduongbachu.com",
+        "source": "https://conduongbachu.com",
+        "regexp": "(conduongbachu\\.com|cdbc\\.com)(\\/[^\\/]+)?\\/?$",
+        "description": "Đọc truyện trên Con Đường Bá Chủ",
         "locale": "vi_VN",
         "type": "novel",
         "language": "javascript"
